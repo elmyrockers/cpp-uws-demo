@@ -3,7 +3,7 @@ A blazing-fast **C++ real-time chat demo** built with the powerful **uWebSockets
 
 ## Technology Stacks
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++23](https://img.shields.io/badge/C++23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![uWebSockets](https://img.shields.io/badge/uWebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
